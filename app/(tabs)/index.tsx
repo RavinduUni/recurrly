@@ -1,4 +1,3 @@
-import "@/global.css";
 import { Link } from "expo-router";
 import React from "react";
 import { Text } from "react-native";
